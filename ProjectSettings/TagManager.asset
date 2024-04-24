@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - canPickUp
+  - FollowCamera
+  - Key
+  - NPC
+  - Door
+  - isCover
+  - UIElements
+  - FadingCanvas
+  - PauseMenuUI
+  - Disruption
+  - Openable
+  - Hackable
+  - PickUp
+  - Target
+  - Lore
+  - Chatting
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - canPickUp
+  - canControl
+  - canInteract
+  - canListen
+  - Obstacle
+  - Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

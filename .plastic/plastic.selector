@@ -1,0 +1,4 @@
+repository "Exokinesis@s_amato@cloud"
+  path "/"
+    br "/main"
+    co "/main"

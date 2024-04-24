@@ -70,3 +70,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/[Aa]ssets/_Creepy_Cat
+/[Aa]ssets/_Barking_Dog
+/[Aa]ssets/Art
+/[Aa]ssets/AssetStore
+/[Aa]ssets/QA_Books
+/[Aa]ssets/danthaigames
+/[Aa]ssets/Puzzle Pack II
+/[Aa]ssets/Save is easy
